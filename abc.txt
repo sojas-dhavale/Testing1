@@ -1,2 +1,2 @@
 Shrinivas Dhavale has created one file with name abc.txt on master branch by cloning the repository Testing1 from github.
-Now doing practice for pusing it form local repo to remote github repo
+Now doing practice for pushing it form local repo to remote github repo
