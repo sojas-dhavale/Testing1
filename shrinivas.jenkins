@@ -1,0 +1,13 @@
+pipeline
+{
+    stages
+    {
+    stage('First Stage')
+    {
+    steps
+    {
+    echo " Fetching code from jenkins file located on github"
+    }
+   }
+  }
+ }
