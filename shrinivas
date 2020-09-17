@@ -1,0 +1,14 @@
+#!/user/bin/env groovy
+pipeline
+{
+agent any
+{
+stages
+{
+stage('First Stage')
+{
+steps "First Program"
+}
+}
+}
+}
